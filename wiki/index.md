@@ -19,7 +19,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-04-22 | Total pages: 8 | Sources ingested: 0
+Last updated: 2026-04-22 | Total pages: 15 | Sources ingested: 1
 
 Navigation: [[overview]] | [[log]] | [[hot]]
 
@@ -38,9 +38,21 @@ Navigation: [[overview]] | [[log]] | [[hot]]
 
 ---
 
-## Learning
+## Learning: Fitness & Muscle Building
 
-<!-- Pages added here as concepts are ingested -->
+- [[Hypertrophy]] — what hypertrophy is, the three stimuli, molecular cascade (status: mature)
+- [[mTOR Signaling]] — master molecular switch for muscle protein synthesis (status: mature)
+- [[Hypertrophy Training]] — volume, intensity, frequency, splits, deloads (status: mature)
+- [[Progressive Overload]] — the single most important training principle (status: mature)
+- [[Anabolic State]] — how to enter and stay in it; sleep, recovery, hormones (status: mature)
+- [[Muscle Building Nutrition]] — macros, best foods, protein sources, sample day (status: mature)
+- [[Nutrient Timing]] — pre/post workout, daily distribution, pre-sleep protocol (status: mature)
+
+---
+
+## Sources
+
+- [[hypertrophy-research-2026]] — 2026-04-22 | web research across 7 topics | 7 wiki pages created
 
 ---
 
@@ -58,13 +70,7 @@ Navigation: [[overview]] | [[log]] | [[hot]]
 
 ## Concepts
 
-<!-- Ideas and mental models extracted from sources -->
-
----
-
-## Sources
-
-<!-- One entry per ingested source -->
+<!-- Additional ideas and mental models extracted from future sources -->
 
 ---
 

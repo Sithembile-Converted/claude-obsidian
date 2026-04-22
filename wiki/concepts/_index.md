@@ -36,4 +36,16 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 
 ---
 
+## Fitness & Muscle Building
+
+- [[Hypertrophy]] — what hypertrophy is, the three stimuli, molecular cascade (mature)
+- [[mTOR Signaling]] — master molecular switch for muscle protein synthesis (mature)
+- [[Hypertrophy Training]] — volume, intensity, frequency, splits, deloads (mature)
+- [[Progressive Overload]] — the single most important training principle (mature)
+- [[Anabolic State]] — how to enter and stay in it; sleep, recovery, hormones (mature)
+- [[Muscle Building Nutrition]] — macros, best foods, protein sources, sample day (mature)
+- [[Nutrient Timing]] — pre/post workout, daily distribution, pre-sleep protocol (mature)
+
+---
+
 ## Add new concepts here as they are extracted from sources.

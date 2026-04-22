@@ -39,4 +39,10 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 
 ---
 
+## Research Compilations
+
+- [[hypertrophy-research-2026]] — 2026-04-22 | muscle hypertrophy, training, nutrition, timing | 7 pages created
+
+---
+
 ## Add new sources here after each ingest.
