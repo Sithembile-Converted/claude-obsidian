@@ -8,16 +8,34 @@ This folder is both a Claude Code plugin and an Obsidian vault.
 
 ## What This Vault Is For
 
-This vault demonstrates the LLM Wiki pattern — a persistent, compounding knowledge base for Claude + Obsidian. Drop any source, ask any question, and the wiki grows richer with every session.
+Personal 2nd Brain for ideas and learning. Mode D (Personal / Second Brain). Owner: tsith. Created: 2026-04-22.
 
 ## Vault Structure
 
 ```
-.raw/           source documents — immutable, Claude reads but never modifies
-wiki/           Claude-generated knowledge base
-_templates/     Obsidian Templater templates
-_attachments/   images and PDFs referenced by wiki pages
+.raw/              source documents — immutable, Claude reads but never modifies
+wiki/              Claude-generated knowledge base
+  goals/           personal and professional goals
+  learning/        concepts being mastered, skills in development
+  people/          relationships and shared context
+  areas/           life areas: health, career, finance, creative, growth
+  resources/       books, courses, tools worth referencing
+  concepts/        extracted ideas and mental models
+  entities/        people, orgs, products relevant to learning
+  sources/         one summary page per raw source
+  questions/       filed answers to queries
+_templates/        Obsidian Templater templates
+_attachments/      images and PDFs referenced by wiki pages
 ```
+
+## Conventions
+
+- All notes use YAML frontmatter: type, status, created, updated, tags (minimum)
+- Wikilinks use [[Note Name]] format: filenames are unique, no paths needed
+- .raw/ contains source documents: never modify them
+- wiki/index.md is the master catalog: update on every ingest
+- wiki/log.md is append-only: new entries go at the TOP, never edit past entries
+- wiki/hot.md is the hot cache: update after every ingest and at end of session
 
 ## How to Use
 
