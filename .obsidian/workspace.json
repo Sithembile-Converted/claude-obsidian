@@ -1,65 +1,63 @@
 {
   "main": {
-    "id": "cb698273c33e48de",
+    "id": "d1909f21edbbf414",
     "type": "split",
     "children": [
       {
-        "id": "477f1cf965ca606e",
+        "id": "5128920da32389fe",
         "type": "tabs",
+        "dimension": 18.248175182481752,
         "children": [
           {
-            "id": "a31de1b302cdc5cf",
+            "id": "d8474a81add2d57a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "1ddf905423a8598d",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "61749825e48e4b66",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "wiki/Wiki Map.canvas",
-                "viewState": {
-                  "x": -413.9875924804161,
-                  "y": 621.2439739591268,
-                  "zoom": -1.292836204863978
-                }
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Wiki Map"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "21e10d4953e29c0d",
+        "type": "tabs",
+        "dimension": 81.75182481751825,
+        "children": [
+          {
+            "id": "a7a23e392b1f3bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/Anabolic State.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anabolic State"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "db8d83ac47ae599f",
+    "id": "0df112fd0d4359e9",
     "type": "split",
     "children": [
       {
-        "id": "554fd2b4fa6f8741",
+        "id": "39ebce8641576e38",
         "type": "tabs",
         "children": [
           {
-            "id": "5565f1231fe95c42",
+            "id": "148892a62fa2c925",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +70,7 @@
             }
           },
           {
-            "id": "832ab43d08cf9e30",
+            "id": "0b8f2ce566be8dfc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -89,7 +87,7 @@
             }
           },
           {
-            "id": "097e8347bb8aa054",
+            "id": "f83c806dae991be8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,19 +103,20 @@
     "width": 300
   },
   "right": {
-    "id": "7092b65be1e76349",
+    "id": "2e039dcca7cebdb8",
     "type": "split",
     "children": [
       {
-        "id": "9f4de9402eae371b",
+        "id": "c946d868bce8fd5e",
         "type": "tabs",
         "children": [
           {
-            "id": "a32b7215b7814fbb",
+            "id": "89de7f65d7b1cdbc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/concepts/Anabolic State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,24 +126,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Anabolic State"
             }
           },
           {
-            "id": "7936f8ba26007091",
+            "id": "8eea5b76ec663a6a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/concepts/Anabolic State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Anabolic State"
             }
           },
           {
-            "id": "ed8ccb323a603d61",
+            "id": "133f95516a4edcaf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "b140a331162907cf",
+            "id": "0c7faa6db22babb2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -173,27 +173,18 @@
             }
           },
           {
-            "id": "111a21e12ab1a293",
+            "id": "9a2bed7044bb39ba",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/concepts/Anabolic State.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "20a272e103b5d792",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of Anabolic State"
             }
           }
         ]
@@ -205,72 +196,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-memos:Thino": false,
-      "obsidian-memos:Thino Super": false
+      "bases:Create new base": false
     }
   },
-  "active": "61749825e48e4b66",
+  "active": "a7a23e392b1f3bf0",
   "lastOpenFiles": [
-    "wiki/meta/claude-obsidian-cover.gif",
-    "README.md.tmp.224546.1775562198004",
-    "README.md.tmp.224546.1775562190155",
-    "README.md.tmp.224546.1775562092499",
+    "wiki/goals/Annual Goals.md",
+    "wiki/concepts/Hypertrophy.md",
+    "wiki/concepts/Nutrient Timing.md",
+    "Welcome.md",
+    "wiki/concepts/Hypertrophy Training.md",
+    "wiki/sources/hypertrophy-research-2026.md",
+    "wiki/concepts/Muscle Building Nutrition.md",
+    "wiki/concepts/Anabolic State.md",
+    "wiki/concepts/Progressive Overload.md",
+    "wiki/concepts/mTOR Signaling.md",
+    "_templates/area.md",
+    "_templates/person.md",
+    "_templates/resource.md",
+    "_templates/goal.md",
+    "wiki/areas/Areas Overview.md",
+    "wiki/goals/North Star.md",
+    "wiki/resources/_index.md",
+    "wiki/areas/_index.md",
+    "wiki/people/_index.md",
+    "wiki/learning/_index.md",
+    "wiki/goals/_index.md",
+    "wiki/resources",
+    "wiki/areas",
+    "wiki/people",
+    "wiki/learning",
+    "wiki/goals",
+    "AGENTS.md",
+    "GEMINI.md",
+    "LICENSE",
+    "docs/install-guide.pdf",
+    "docs/install-guide.md",
+    "docs",
+    "ATTRIBUTION.md",
+    "CLAUDE.md",
+    "_templates",
+    "agents",
+    "wiki/meta/workflow-loop.gif",
+    "wiki/meta/wiki-graph-grow.gif",
+    "wiki/meta/welcome-canvas.gif",
     "wiki/meta/image-example-wiki-map-view.png",
     "wiki/meta/image-example-graph-view.png",
-    "ATTRIBUTION.md",
-    "ATTRIBUTION.md.tmp.224546.1775561977773",
-    "wiki/overview.md",
-    "Excalidraw/Drawing 2026-04-07 14.39.09.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-07 14.39.10.excalidraw.md",
-    "Untitled 2.canvas",
-    "LICENSE",
-    "LICENSE.tmp.224546.1775561946460",
-    "2026-04-07.md",
-    "Untitled.base",
-    "docs/install-guide.md",
-    "README.md.tmp.224546.1775561616026",
     "wiki/meta/claude-obsidian-gif-cover-16x9.gif",
-    "README.md.tmp.224546.1775561304170",
-    "wiki/meta/cover.gif",
-    "wiki/concepts/_index.md",
+    "wiki/meta/claude-obsidian-gif-1x1.gif",
+    "wiki/meta/claude-obsidian-cover-square.png",
+    "wiki/meta/claude-obsidian-cover-16x9.png",
+    "wiki/canvases/youtube-explainer.canvas",
     "wiki/canvases/welcome.canvas",
-    "README.md.tmp.224546.1775561084699",
-    "wiki/meta/welcome-canvas.gif",
     "wiki/canvases/main.canvas",
-    "README.md",
-    "wiki/getting-started.md",
-    "Demo Images.canvas",
-    "Excalidraw/Drawing 2026-04-07 14.07.42.excalidraw.md",
-    "wiki/concepts/LLM Wiki Pattern.md",
-    "Obsidian vault with Claude Code - full integration and visual organization 2.md",
-    "Excalidraw/Drawing 2026-04-07 14.07.42_0.excalidraw.md",
-    "_attachments/the-frontier.png",
-    "_attachments/neural-voyager.png",
-    "_attachments/code-genesis.png",
-    "wiki/concepts/Hot Cache.md",
-    "wiki/concepts/Compounding Knowledge.md",
-    "wiki/entities/_index.md",
-    "wiki/entities/Andrej Karpathy.md",
-    "wiki/questions/How does the LLM Wiki pattern work.md",
-    "wiki/hot.md",
-    "wiki/index.md",
-    "wiki/log.md",
-    "wiki/Wiki Map.canvas",
-    "Banana Images.canvas",
-    "Untitled 1.canvas",
-    "Excalidraw/Drawing 2026-04-07 13.52.12.excalidraw.md",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2026-04-07 13.51.04.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-07 13.51.12.excalidraw.md",
-    "wiki/comparisons/Wiki vs RAG.md",
-    "projects/visual-vault/design-ideas.canvas"
+    "wiki/canvases/claude-obsidian-presentation.canvas",
+    "wiki/Wiki Map.canvas"
   ]
 }
